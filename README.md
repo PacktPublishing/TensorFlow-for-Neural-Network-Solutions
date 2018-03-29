@@ -1,14 +1,7 @@
 # TensorFlow for Neural Network Solutions [Video]
 This is the code repository for [TensorFlow for Neural Network Solutions [Video]](https://www.packtpub.com/big-data-and-business-intelligence/tensorflow-neural-network-solutions-video?utm_source=github&utm_medium=repository&utm_campaign=9781789343403), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
-TensorFlow is an open source software library for Machine Intelligence. The independent solutions in this video course will teach you how to use TensorFlow for complex data computations and will let you dig deeper and gain more insights into your data 
-than ever before. You’ll work through video on training models, model evaluation, sentiment analysis, regression analysis, clustering analysis, artificial neural networks, and deep 
-learning – each using Google’s machine learning library TensorFlow.This guide covers important high-level concepts such 
-as neural networks, CNN, RNN, and NLP. Once you are familiar and 
-comfortable with the TensorFlow ecosystem, the last section will 
-show you how to take it to production. Once you are familiar and 
-comfortable with the TensorFlow ecosystem, the last section will 
-show you how to take it to production.
+TensorFlow is an open source software library for Machine Intelligence. The independent solutions in this video course will teach you how to use TensorFlow for complex data computations and will let you dig deeper and gain more insights into your data than ever before. You’ll work through video on training models, model evaluation, sentiment analysis, regression analysis, clustering analysis, artificial neural networks, and deep learning – each using Google’s machine learning library TensorFlow.This guide covers important high-level concepts such as neural networks, CNN, RNN, and NLP. Once you are familiar and comfortable with the TensorFlow ecosystem, the last section will show you how to take it to production. Once you are familiar and comfortable with the TensorFlow ecosystem, the last section will show you how to take it to production.
 
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
